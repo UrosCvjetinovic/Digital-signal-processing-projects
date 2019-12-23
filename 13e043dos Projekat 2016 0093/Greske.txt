@@ -1,0 +1,6 @@
+Deo 2 
+-tacka 5
+	-Nije trebalo sa odredjenim zaokruzivanjem vec je trebalo sa razlicitim vrednostima sirine reci i dela za razlomljeni deo
+Deo 3
+-tacka 3
+	-Lose je odabirano, ne treba da imam curenje spektra (zbog ovoga nadalje nije tacno pik u 4toj tacki kod 20 na x osi je zbog toga opao (a to je jer dobijaju znacaj harmonici nastali od curenja))
